@@ -18,5 +18,13 @@
 <externallink>https://raw.githubusercontent.com/Andromedra66/ADDONFLIXBOXPLAY/main/S%C3%89RIESFLIXBOXPLAY.XML</externallink>
 </channel>
 
+<channel>
+<name>[COLOR lime] TESTE ADDON FLIX BOX PLAY[/COLOR]</name>
+<thumbnail>https://archive.org/download/e2dc5698-bbb0-491d-a327-44c2896982b1/e2dc5698-bbb0-491d-a327-44c2896982b1.jpg</thumbnail>
+<fanart>https://archive.org/download/e2dc5698-bbb0-491d-a327-44c2896982b1/e2dc5698-bbb0-491d-a327-44c2896982b1.jpg</fanart>
+<info></info>
+<externallink></externallink>
+</channel>
+
 
 </channels>
