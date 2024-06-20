@@ -3,7 +3,7 @@
 
 <item>
 <title>007 - Sem Tempo para Morrer - 2022</title>
-<onclick>PlayMedia(https://player.odycdn.com/v6/streams/f13e3567046e47760743aa5fad1be23919bdbc77/ad150a1aa36d46e0036411d430b5aa69bce731888641168f3513b1b82be6bc40b3ac0bf20a4f160c167912fe7fe9d248/stream_0.m3u8)</onclick>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:892067dec36944db97d80ec90ebcc0ed456fd22e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg</thumbnail>
 <genre>Ação / Aventura / Suspense</genre>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg</fanart>
