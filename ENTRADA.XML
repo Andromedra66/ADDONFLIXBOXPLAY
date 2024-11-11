@@ -4,33 +4,33 @@
 
 
 <channel>
-<name>[COLOR blue]FILMES ADDON FLIX BOX PLAY[/COLOR]</name>
-<thumbnail>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</thumbnail>
-<fanart>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</fanart>
+<name>[COLOR blue]FILMES ADDON PEGASUS[/COLOR]</name>
+<thumbnail>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</thumbnail>
+<fanart>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/Andromedra66/ADDONFLIXBOXPLAY/main/FILMESADDONFLIXBOXPLAY.XML</externallink>
 </channel>
 
 <channel>
-<name>[COLOR red]FILMES ADDON FLIX BOX PLAY LINK-DIRETO[/COLOR]</name>
-<thumbnail>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</thumbnail>
-<fanart>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</fanart>
+<name>[COLOR red]FILMES ADDON PEGASUS LINK-DIRETO[/COLOR]</name>
+<thumbnail>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</thumbnail>
+<fanart>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/Andromedra66/ADDONFLIXBOXPLAY/main/FILMESADDONFLIXBOXPLAYLINKDIRETO.XML</externallink>
 </channel>
 
 <channel>
-<name>[COLOR red]SÉRIES ADDON FLIX BOX PLAY LINK-DIRETO[/COLOR]</name>
-<thumbnail>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</thumbnail>
-<fanart>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</fanart>
+<name>[COLOR red]SÉRIES ADDON PEGASUS LINK-DIRETO[/COLOR]</name>
+<thumbnail>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</thumbnail>
+<fanart>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/Andromedra66/ADDONFLIXBOXPLAY/refs/heads/main/SERIESLINKDIRETO.XML</externallink>
 </channel>
 
 <channel>
-<name>[COLOR blue]FILMES ADDON FLIX BOX PLAY PLUTOTV[/COLOR]</name>
-<thumbnail>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</thumbnail>
-<fanart>https://archive.org/download/372f-7139-e-65f-44db-881f-be-73512d-37f-1/372f7139-e65f-44db-881f-be73512d37f1.jpg</fanart>
+<name>[COLOR blue]FILMES ADDON PEGASUS PLUTOTV[/COLOR]</name>
+<thumbnail>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</thumbnail>
+<fanart>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</fanart>
 <info></info>
 <externallink>https://raw.githubusercontent.com/Andromedra66/ADDONFLIXBOXPLAY/refs/heads/main/CANAISPLUTOTV.XML</externallink>
 </channel>
