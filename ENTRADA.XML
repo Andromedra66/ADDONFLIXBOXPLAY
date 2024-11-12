@@ -12,7 +12,7 @@
 </channel>
 
 <channel>
-<name>[COLOR blue]FILMES ADDON PEGASUS LINK-DIRETO[/COLOR]</name>
+<name>[COLOR yellow]FILMES ADDON PEGASUS LINK-DIRETO[/COLOR]</name>
 <thumbnail>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</thumbnail>
 <fanart>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</fanart>
 <info></info>
@@ -27,13 +27,6 @@
 <externallink>https://raw.githubusercontent.com/Andromedra66/ADDONFLIXBOXPLAY/refs/heads/main/SERIESLINKDIRETO.XML</externallink>
 </channel>
 
-<channel>
-<name>[COLOR blue]FILMES ADDON PEGASUS PLUTOTV[/COLOR]</name>
-<thumbnail>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</thumbnail>
-<fanart>https://archive.org/download/333-3333359-pegasus-wallpaper-4k/333-3333359_pegasus-wallpaper-4k.jpg</fanart>
-<info></info>
-<externallink>https://raw.githubusercontent.com/Andromedra66/ADDONFLIXBOXPLAY/refs/heads/main/CANAISPLUTOTV.XML</externallink>
-</channel>
 
 
 </channels>
